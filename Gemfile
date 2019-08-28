@@ -58,7 +58,6 @@ group :test do
   gem 'webdrivers'
 end
 
-gem '@rails/webpacker'
 gem 'bigdecimal', '1.3.5'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
